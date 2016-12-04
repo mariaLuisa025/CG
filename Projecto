@@ -29,14 +29,4 @@ CVector lightPosition;
 //Apuntador para primitivas de cuadricas
 GLUquadricObj	*e;
 
-//Nombre y ubicación de los modelos
-#define FILE_NAME1p  "Modelos/torso.3ds"
-#define FILE_NAME2p  "Modelos/cabeza.3ds"
-#define FILE_NAME3p  "Modelos/pierna_a.3ds"
-#define FILE_NAME4p  "Modelos/pierna_b.3ds"
-#define FILE_NAME5p  "Modelos/pie.3ds"
-#define FILE_NAME6p  "Modelos/brazo der_a.3ds"
-#define FILE_NAME7p  "Modelos/brazo der_b.3ds"
-#define FILE_NAME8p  "Modelos/brazo izq_a.3ds"
-#define FILE_NAME9p  "Modelos/brazo izq_b.3ds"
-#define FILE_NAME10p "Modelos/arma.3ds"
+HOLIs
